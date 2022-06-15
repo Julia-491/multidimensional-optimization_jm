@@ -1,1 +1,0 @@
-# multidimensional-optimization_jm
